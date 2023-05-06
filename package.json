@@ -2,5 +2,8 @@
   "devDependencies": {
     "@openzeppelin/contracts": "^4.8.3",
     "@openzeppelin/contracts-upgradeable": "^4.8.3"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.10"
   }
 }
